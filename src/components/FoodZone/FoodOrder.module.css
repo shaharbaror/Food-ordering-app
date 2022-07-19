@@ -1,0 +1,35 @@
+.box{
+    margin: 5%;
+    display:flex;
+    border-bottom: 4px solid rgba(0,0,0,0.1);
+
+}
+.order{
+    text-align: right;
+    font-family: sans-serif;
+    margin-top: 3vh;
+    margin-right: 1vh;
+}
+
+.order input{
+    width: 3vh;
+    border-radius: 15%;
+    margin-left: 1vh;
+    border-color: rgba(0,0,0,0.7);
+}
+.text {
+    margin: -10px auto;
+}
+
+.food_show{
+    width: 50vh;
+    text-align: left;
+    margin-right: auto;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.btn{
+    display:block;
+    margin: 10% 37%;
+    width:8vh;
+    height:3vh;
+}

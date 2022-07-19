@@ -1,0 +1,35 @@
+.header {
+    background-color: brown;
+    height:10vh;
+    color:white;
+    display: flex;
+}
+.header h1{
+    margin-left: 10%;
+    position: fixed;
+}
+
+.cart{
+    margin-left: auto;
+    margin-right: 5%;
+    margin-top: 1.5vh;
+    background-color: rgb(116, 30, 30);
+    border-radius: 30px;
+    height:60%;
+    width:25vh;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+}
+
+.cart h3{
+    margin-left: 20px;
+}
+
+.numbers{
+    margin-left: 5vh;
+    width:fit-content;
+    padding: 0 2%;
+    height:fit-content;
+    background-color: brown;
+    border-radius: 15px;
+}
